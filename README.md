@@ -1,3 +1,4 @@
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://app-dashboard-2sfoh7rh2czqpava6sdkxu.streamlit.app/)
 # 📊 Simple Sales Dashboard (Streamlit)
 
 This project is a **basic interactive dashboard** built with [Streamlit](https://streamlit.io/), showcasing:
