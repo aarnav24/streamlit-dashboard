@@ -23,11 +23,7 @@ It uses **dummy data** simulating a sales dataset and demonstrates key Streamlit
 
 ---
 
-## 💻 How to Run
-
-1. Clone the repo or download the files:
-   ```bash
-   git clone # 📊 Simple Sales Dashboard (Streamlit)
+## 💻 Details:
 
 This project is a **basic interactive dashboard** built with [Streamlit](https://streamlit.io/), showcasing:
 - Revenue and unit sales KPIs
